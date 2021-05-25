@@ -1,3 +1,5 @@
+![heroimage](https://user-images.githubusercontent.com/45421908/119499125-af485880-bd66-11eb-82b3-dd43b30269aa.jpg)
+
 # Welkom!
 Welkom bij mijn afstudeerproject, SIT. Ik ben Robert Hoekstra en ik wil afstuderen door middel van mijn kwaliteiten als onderzoeker, ontwerper en ontwikkelaar te kunnen toetsen door middel van een te ontwikkelen concept.
 
