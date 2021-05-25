@@ -12,6 +12,6 @@ In samenwerking met De La Fuente Electronic Academy ga ik werken aan dit concept
 Voetbalspelers tussen de 8 en 13 jaar oud.
 
 # Contactpersonen
-  Joost Faber
-  Nick Albert
-  Kevin Oldenstam
+  - Joost Faber
+  - Nick Albert
+  - Kevin Oldenstam
