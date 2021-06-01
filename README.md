@@ -8,10 +8,24 @@ Soccer Improvement Tool is het concept waar ik 20 weken lang aan zal werken om t
 
 In samenwerking met De La Fuente Electronic Academy ga ik werken aan dit concept.
 
+# De La Fuente Electronic Academy
+DLFEA is een nieuwe ambitieuze voetbalschool in Lelystad. Het is een school 
+
+# Doel van het project
+Het doel van het afstudeerproject is om mijn expertise als CMD student te kunnen tonen aan de buitenwereld.
+Alles wat ik heb geleerd en waar ik mij verder in wil verdiepen neem ik mee in dit project.
+
+# Planning
+De planning van het project is te volgen via het projectbord van GitHub Projects.
+Dit bord zal gedurende het project worden aangepast en aangevuld met nieuwe en bestaande issues. 
+
+# Documentatie
+Het project zal onder de GitHub Wiki omgeving worden gedocumenteerd. Daarnaast zal er in de documentatie files een opgemaakte pdf versie van dezelfde documentatie beschikbaar worden gesteld.
+
 # Doelgroep
 Voetbalspelers tussen de 8 en 13 jaar oud.
 
 # Contactpersonen
-  - Joost Faber
-  - Nick Albert
-  - Kevin Oldenstam
+  - Joost Faber (Afstudeer Coach HvA)
+  - Nick Albert (Oprichter en Facilitair manager DLFEA)
+  - Kevin Oldenstam (Hoofdtrainer DLFEA)
